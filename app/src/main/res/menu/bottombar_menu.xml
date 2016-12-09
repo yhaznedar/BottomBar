@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+    <menu xmlns:android="http://schemas.android.com/apk/res/android">
+        <item
+            android:id="@+id/bb_menu_arac"
+            android:icon="@drawable/arac"
+            android:title="Araçlarım" />
+        <item
+            android:id="@+id/bb_menu_yakin"
+            android:icon="@drawable/yakinimdaki"
+            android:title="Yakınımdakiler" />
+        <item
+            android:id="@+id/bb_menu_yaklasan"
+            android:icon="@drawable/yaklasanlar"
+            android:title="Yakınımdakiler" />
+        <item
+            android:id="@+id/bb_menu_ipuc"
+            android:icon="@drawable/ipuclari"
+            android:title="İpuçları" />
+
+    </menu>
